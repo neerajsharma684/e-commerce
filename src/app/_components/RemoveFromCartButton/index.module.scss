@@ -1,7 +1,8 @@
 @import '../../_css/common';
 
 .removeFromCartButton {
-  all: unset;
+  border: none;
+  background: none;
   cursor: pointer;
   @extend %label;
 }
